@@ -2,7 +2,7 @@
 
 ### Como utilizar?
 
-1. Baixe o arquivo que está dentro da pasta **/dist** "quotation-travels.js"
+1. Baixe o arquivo que está dentro da pasta **/dist**  `quotation-travels.js`
 
 2. Coloque o arquivo dentro da sua aplicação
 
