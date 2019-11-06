@@ -16,7 +16,7 @@
 }(window, document, 'script', 'mw', './quotation-travels.js'));
 mw('init', { someConfiguration: 42 });
 mw('widgetname', 'Quotation Travels Widget');
-..
+...
 
 ##### Dica
 *Procure colocar o arquivo **quotation-travels.js** no mesmo diretório do index.html.*
