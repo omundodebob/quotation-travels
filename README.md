@@ -2,11 +2,11 @@
 
 ### Como utilizar?
 
-1. Baixe o arquivo que está dentro da pasta **/dist**  `quotation-travels.js`
+1. Baixe o arquivo que está dentro da pasta **dist**  `quotation-travels.js`
 
 2. Coloque o arquivo dentro da sua aplicação
 
-3. No seu **index.html** copie e cole o código a seguir:
+3. No seu `index.html` copie e cole o código a seguir:
 
 ```
 (function (w,d,s,o,f,js,fjs) {
@@ -19,7 +19,7 @@ mw('widgetname', 'Quotation Travels Widget');
 ```
 
 ##### Dica
-*Procure colocar o arquivo **quotation-travels.js** no mesmo diretório do index.html.*
+*Procure colocar o arquivo `quotation-travels.js` no mesmo diretório do `index.html`.*
 
 ##### Ajuda
-Dentro da pasta **dist** tem um **index.html** demonstrando como utilizar o widget quotation travels.
+Dentro da pasta **dist** tem um `index.html` demonstrando como utilizar o widget quotation travels.
