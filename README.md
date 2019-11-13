@@ -2,7 +2,7 @@
 
 ### Como utilizar?
  
-1. No seu código **.html** copie e cole o código a seguir:
+1. No seu código **.html** copie e cole o script a seguir:
 
 ```
 (function (w,d,s,o,f,js,fjs) {
